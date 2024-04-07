@@ -1,0 +1,8 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.6
+MinimumVisualStudioVersion = 10.0.40219.1
+
+Project("Microsoft.NET.Sdk.Web") = "aspWebapp", "C:\Users\Harriet Atieno\Desktop\programming\aspWebapp\aspWebapp\aspWebapp.csproj", "Microsoft.NET.Sdk.Web"
+EndProject
